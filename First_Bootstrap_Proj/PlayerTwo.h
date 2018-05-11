@@ -2,12 +2,16 @@
 #include <glm\vec2.hpp>
 #include <vector>
 #include "BearBullet.h"
+
+//PLAYER TWO HOLDS THE SAME FUNCTIONS AS PLAYER ONE 
+
 namespace aie
 {
 	class Renderer2D;
 	class Input;
 	class Texture;
 };
+
 
 struct p2_bulletMech
 {
