@@ -1,0 +1,4 @@
+﻿  First_Bootstrap_ProjApp.cpp
+c:\users\s181333\desktop\first_bootstrap_proj_igggggg\first_bootstrap_proj_use this\first_bootstrap_proj\first_bootstrap_projapp.cpp(82): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\s181333\desktop\first_bootstrap_proj_igggggg\first_bootstrap_proj_use this\first_bootstrap_proj\first_bootstrap_projapp.cpp(104): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  First_Bootstrap_Proj.vcxproj -> C:\Users\s181333\Desktop\First_Bootstrap_Proj_igggggg\First_Bootstrap_Proj_USE THIS\temp\First_Bootstrap_Proj\x64\Debug\First_Bootstrap_Proj.exe
